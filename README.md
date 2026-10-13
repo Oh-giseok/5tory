@@ -1,4 +1,3 @@
-[README.md](https://github.com/user-attachments/files/33374095/README.md)
 # Story
 
 Story는 Flask로 만든 소셜 미디어 웹 애플리케이션입니다. 사용자는 계정을 만들고 서로 연결해 게시물과 짧은 스토리를 공유하고, 릴스 영상을 보고, 댓글과 좋아요를 주고받으며 1:1 메시지를 보낼 수 있습니다.
